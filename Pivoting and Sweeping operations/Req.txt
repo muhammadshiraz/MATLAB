@@ -1,3 +1,0 @@
-Pivoting and Sweeping operations:
-
-Complete the code we wrote during the lesson by adding the pivoting and back sweeping parts.
