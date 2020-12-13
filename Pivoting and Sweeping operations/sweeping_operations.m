@@ -2,7 +2,7 @@ clc; clear; close all;
 
 % Solve Ax = b using Native Gauss Elimination
 A=[1 0 2; 2 1 0; 3 2 1];
-b=[4;5;-9];
+b=[4;5;9];
 
 %% Gauss Elimination
 % Get augmented matrix
